@@ -1,15 +1,3 @@
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\csc.exe
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\System.Collections.Immutable.dll
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\System.Reflection.Metadata.dll
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\vbc.exe
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\VBCSCompiler.exe
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\roslyn\VBCSCompiler.exe.config
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\tests_api.dll.config
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\tests_api.dll
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\tests_api.pdb
@@ -19,7 +7,6 @@ D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\t
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\Microsoft.AspNet.Identity.Core.dll
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\Microsoft.Owin.dll
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\Microsoft.Owin.Host.SystemWeb.dll
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\Microsoft.Owin.Security.Cookies.dll
@@ -44,7 +31,6 @@ D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\t
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\System.Web.WebPages.dll
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\System.Web.WebPages.Razor.dll
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\WebGrease.dll
-D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\Newtonsoft.Json.xml
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\System.Net.Http.Formatting.xml
 D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\test\tests_api\bin\System.Web.Helpers.xml
